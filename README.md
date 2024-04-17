@@ -1,5 +1,5 @@
 # SARIN
-Certainly! Here's a simple bio template for GitHub:
+
 
 ---
 
